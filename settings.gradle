@@ -1,0 +1,4 @@
+rootProject.name = 'spark.study'
+include 'spark.study1'
+include 'spark.study2'
+
